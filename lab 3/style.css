@@ -488,19 +488,20 @@ input {
     @keyframes boxx {
         0% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(preview.avif);
+            background-image: url(./images\ \(1\).jpg);
         }
 
         50% {
             box-shadow: black 1px 1px 20px;
-            background-image: url(image-28.webp);
+            background-image: url(./images\ \(3\).jpg);
         }
 
         100% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(01.avif);
+            background-image: url(./images\ \(2\).jpg);
         }
     }
+
 
     #i2 {
         box-shadow: black 1px 1px 10px;
@@ -512,17 +513,17 @@ input {
     @keyframes box {
         0% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(01.avif);
+            background-image: url(./download.jpg);
         }
 
         50% {
             box-shadow: black 1px 1px 20px;
-            background-image: url(i.webp);
+            background-image: url(./download\ \(1\).jpg);
         }
 
         100% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(image-28.webp);
+            background-image: url(./images\ \(1\).jpg);
         }
     }
 
@@ -589,3 +590,4 @@ input {
 
     }
 }
+
